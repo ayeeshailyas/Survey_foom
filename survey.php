@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: "Poppins", sans-serif;
-            background: #f6f2e9;
+            background: #ecd6a3;
             margin: 0;
             padding: 0;
         }
